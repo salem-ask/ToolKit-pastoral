@@ -178,6 +178,15 @@ export const contact = {
   website: 'libraryonline.online',
 };
 
+export const whatsappCommunity = {
+  groupLink:
+    'https://chat.whatsapp.com/DRFUqxZkOjX3fzXEaGObV3?s=cl&p=a&mlu=4&ilr=4',
+  title: 'JOIN OUR WHATSAPP CHRISTIAN LIBRARY GROUP',
+  description:
+    'Get free Christian books by joining our WhatsApp community.',
+  ctaLabel: 'JOIN THE WHATSAPP GROUP',
+};
+
 export const seo = {
   title: 'The Complete Pastor’s Toolkit | Training & Pastoral Resources',
   description:

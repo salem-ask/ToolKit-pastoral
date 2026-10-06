@@ -10,6 +10,7 @@ import SocialProof from '@/components/SocialProof';
 import Offer from '@/components/Offer';
 import Faq from '@/components/Faq';
 import FinalCta from '@/components/FinalCta';
+import WhatsappCommunity from '@/components/WhatsappCommunity';
 import Footer from '@/components/Footer';
 import StickyMobileCta from '@/components/StickyMobileCta';
 
@@ -28,6 +29,7 @@ export default function Home() {
       <Offer />
       <Faq />
       <FinalCta />
+      <WhatsappCommunity />
       <Footer />
       <StickyMobileCta />
     </main>
